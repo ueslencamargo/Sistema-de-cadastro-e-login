@@ -1,8 +1,6 @@
-# meus_codigos
- ---------------------------
- |Login_Cadastro_3.0_Alpha | é um dos meus primeiros códigos em python que eu fiz do zero.
- ---------------------------
- 
+
+ Login_Cadastro_3.0_Alpha é um dos meus primeiros códigos em python que eu fiz do zero.
+
 * É um sistema de LOGIN E CADASTRO conectado a um banco de dados MySQL: *
 
 1 - Realiza o cadastro de um novo usuário verificando se o nome já não está cadastrado.
@@ -15,7 +13,7 @@
 
 5 - Também é possível recuperar a senha atráves do email previamente cadastrado.
 
-É gerado um número usando random que é enviado para o email e solicitado ao
+* É gerado um número usando random que é enviado para o email e solicitado ao
 usuário digitar esse número.
 
 E então ele pode alterar a senha.
